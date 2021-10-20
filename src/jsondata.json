@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Iranna",
+    "label": "User Name",
+    "fieldType": "TextBox"
+  },
+  {
+    "name": "a1bc@gmail.com",
+    "label": "Email",
+    "fieldType": "TextBox"
+  },
+  {
+    "name": "city",
+    "label": "City",
+    "fieldType": "DropDown",
+    "DataSource": ["Bangalore", "Mysore", "Kolkata", "Delhi"]
+  },
+  {
+    "name": "city",
+    "label": "City",
+    "fieldType": "RadioButton",
+    "DataSource": ["Metro", "Non-Metro"]
+  }
+]
